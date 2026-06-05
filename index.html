@@ -1,0 +1,274 @@
+```html
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GuitarHub - Marketplace Gitar Modern</title>
+
+<script src="https://cdn.tailwindcss.com"></script>
+
+<style>
+.hero-bg{
+    background: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)),
+    url('https://images.unsplash.com/photo-1511379938547-c1f69419868d?auto=format&fit=crop&w=1600&q=80');
+    background-size: cover;
+    background-position: center;
+}
+</style>
+
+</head>
+
+<body class="bg-gray-100">
+
+<!-- NAVBAR -->
+<nav class="bg-black text-white sticky top-0 z-50">
+    <div class="max-w-7xl mx-auto px-6">
+        <div class="flex justify-between items-center h-16">
+
+            <h1 class="text-2xl font-bold text-yellow-500">
+                🎸 GuitarHub
+            </h1>
+
+            <ul class="hidden md:flex space-x-8">
+                <li><a href="#home" class="hover:text-yellow-400">Beranda</a></li>
+                <li><a href="#kategori" class="hover:text-yellow-400">Kategori</a></li>
+                <li><a href="#produk" class="hover:text-yellow-400">Produk</a></li>
+                <li><a href="#testimoni" class="hover:text-yellow-400">Testimoni</a></li>
+                <li><a href="#kontak" class="hover:text-yellow-400">Kontak</a></li>
+            </ul>
+
+            <div class="space-x-2">
+                <button class="px-4 py-2 border border-yellow-500 rounded-lg hover:bg-yellow-500">
+                    Login
+                </button>
+
+                <button class="px-4 py-2 bg-yellow-500 rounded-lg hover:bg-yellow-600">
+                    Daftar
+                </button>
+            </div>
+
+        </div>
+    </div>
+</nav>
+
+<!-- HERO -->
+<section id="home" class="hero-bg h-screen flex items-center justify-center text-center text-white">
+
+    <div>
+        <h1 class="text-5xl md:text-7xl font-bold mb-6">
+            Temukan Gitar Impianmu
+        </h1>
+
+        <p class="text-xl mb-8">
+            Marketplace Gitar Modern dengan Ribuan Pilihan Produk Berkualitas
+        </p>
+
+        <button class="bg-yellow-500 hover:bg-yellow-600 px-8 py-4 rounded-xl text-lg">
+            Belanja Sekarang
+        </button>
+    </div>
+
+</section>
+
+<!-- KATEGORI -->
+<section id="kategori" class="py-20">
+
+    <h2 class="text-4xl font-bold text-center mb-12">
+        Kategori Produk
+    </h2>
+
+    <div class="max-w-7xl mx-auto grid md:grid-cols-3 lg:grid-cols-6 gap-6 px-6">
+
+        <div class="bg-white rounded-xl shadow p-6 text-center">🎸<br>Akustik</div>
+
+        <div class="bg-white rounded-xl shadow p-6 text-center">⚡<br>Elektrik</div>
+
+        <div class="bg-white rounded-xl shadow p-6 text-center">🎼<br>Klasik</div>
+
+        <div class="bg-white rounded-xl shadow p-6 text-center">🎵<br>Bass</div>
+
+        <div class="bg-white rounded-xl shadow p-6 text-center">🎶<br>Ukulele</div>
+
+        <div class="bg-white rounded-xl shadow p-6 text-center">🎧<br>Aksesoris</div>
+
+    </div>
+
+</section>
+
+<!-- PRODUK -->
+```html
+<section id="produk" class="bg-gray-900 py-20">
+
+  <div class="mx-auto max-w-7xl px-6">
+
+    <h2 class="text-4xl font-bold text-center text-yellow-500 mb-12">
+      Produk Terlaris
+    </h2>
+
+    <div class="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+
+      <a href="#" class="group bg-black rounded-xl overflow-hidden shadow-lg hover:shadow-yellow-500/20 transition duration-300">
+
+        <img src="assets/images/gitar1.jpg"
+        class="h-72 w-full object-cover group-hover:scale-105 duration-300">
+
+        <div class="p-4">
+
+          <h3 class="text-white font-semibold text-lg">
+            Gitar Akustik Premium
+          </h3>
+
+          <p class="text-yellow-500 font-bold text-xl mt-2">
+            Rp 1.800.000
+          </p>
+
+          <button class="mt-4 w-full bg-yellow-500 text-black py-2 rounded-lg font-semibold hover:bg-yellow-400">
+            Beli Sekarang
+          </button>
+
+        </div>
+
+      </a>
+
+      <a href="#" class="group bg-black rounded-xl overflow-hidden shadow-lg hover:shadow-yellow-500/20 transition duration-300">
+
+        <img src="assets/images/gitar2.jpg"
+        class="h-72 w-full object-cover group-hover:scale-105 duration-300">
+
+        <div class="p-4">
+
+          <h3 class="text-white font-semibold text-lg">
+            Gitar Elektrik Modern
+          </h3>
+
+          <p class="text-yellow-500 font-bold text-xl mt-2">
+            Rp 3.500.000
+          </p>
+
+          <button class="mt-4 w-full bg-yellow-500 text-black py-2 rounded-lg font-semibold hover:bg-yellow-400">
+            Beli Sekarang
+          </button>
+
+        </div>
+
+      </a>
+
+      <a href="#" class="group bg-black rounded-xl overflow-hidden shadow-lg hover:shadow-yellow-500/20 transition duration-300">
+
+        <img src="assets/images/gitar3.jpg"
+        class="h-72 w-full object-cover group-hover:scale-105 duration-300">
+
+        <div class="p-4">
+
+          <h3 class="text-white font-semibold text-lg">
+            Bass Profesional
+          </h3>
+
+          <p class="text-yellow-500 font-bold text-xl mt-2">
+            Rp 4.200.000
+          </p>
+
+          <button class="mt-4 w-full bg-yellow-500 text-black py-2 rounded-lg font-semibold hover:bg-yellow-400">
+            Beli Sekarang
+          </button>
+
+        </div>
+
+      </a>
+
+      <a href="#" class="group bg-black rounded-xl overflow-hidden shadow-lg hover:shadow-yellow-500/20 transition duration-300">
+
+        <img src="assets/images/gitar4.jpg"
+        class="h-72 w-full object-cover group-hover:scale-105 duration-300">
+
+        <div class="p-4">
+
+          <h3 class="text-white font-semibold text-lg">
+            Ukulele Mahoni
+          </h3>
+
+          <p class="text-yellow-500 font-bold text-xl mt-2">
+            Rp 950.000
+          </p>
+
+          <button class="mt-4 w-full bg-yellow-500 text-black py-2 rounded-lg font-semibold hover:bg-yellow-400">
+            Beli Sekarang
+          </button>
+
+        </div>
+
+      </a>
+
+    </div>
+
+  </div>
+
+</section>
+```
+
+<!-- TESTIMONI -->
+<section id="testimoni" class="py-20">
+
+    <h2 class="text-4xl font-bold text-center mb-12">
+        Testimoni Pelanggan
+    </h2>
+
+    <div class="max-w-5xl mx-auto grid md:grid-cols-3 gap-8 px-6">
+
+        <div class="bg-white p-6 rounded-xl shadow">
+            ⭐⭐⭐⭐⭐
+            <p class="mt-4">
+                Gitar datang cepat dan kualitasnya sangat bagus.
+            </p>
+        </div>
+
+        <div class="bg-white p-6 rounded-xl shadow">
+            ⭐⭐⭐⭐⭐
+            <p class="mt-4">
+                Harga bersaing dan banyak pilihan produk.
+            </p>
+        </div>
+
+        <div class="bg-white p-6 rounded-xl shadow">
+            ⭐⭐⭐⭐⭐
+            <p class="mt-4">
+                Marketplace gitar terbaik yang pernah saya gunakan.
+            </p>
+        </div>
+
+    </div>
+
+</section>
+
+<!-- KONTAK -->
+<section id="kontak" class="bg-black text-white py-20">
+
+    <div class="max-w-7xl mx-auto px-6 text-center">
+
+        <h2 class="text-4xl font-bold mb-8">
+            Hubungi Kami
+        </h2>
+
+        <p>Email: support@guitarhub.com</p>
+
+        <p>WhatsApp: 0812-3456-7890</p>
+
+        <p>Surakarta, Jawa Tengah</p>
+
+    </div>
+
+</section>
+
+<!-- FOOTER -->
+<footer class="bg-gray-900 text-center text-white py-6">
+
+    <p>
+        © 2026 GuitarHub. All Rights Reserved.
+    </p>
+
+</footer>
+
+</body>
+</html>
+```
