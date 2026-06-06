@@ -1,0 +1,1284 @@
+[
+  {
+    "id": 0,
+    "name": "Majie Bar Soap 80gr",
+    "type": "Face & Body Soap",
+    "price": 27500,
+    "concern": [],
+    "image": "products/0.jpg",
+    "description": "Sabun wajah dan tubuh untuk membantu membersihkan kulit dari minyak berlebih, kotoran, serta mengurangi jerawat & flek.",
+    "usage": "Basahi sabun dengan air, usapkan ke wajah & tubuh, pijat perlahan, lalu bilas hingga bersih."
+  },
+  {
+    "id": 1,
+    "name": "Sactea Bar Soap 80gr",
+    "type": "Face & Body Soap",
+    "price": 27500,
+    "concern": [],
+    "image": "products/1.png",
+    "description": "Sabun wajah dan tubuh dengan ekstrak alami untuk membersihkan kulit secara lembut dan melembapkan.",
+    "usage": "Gunakan setelah basahi, gosokkan ke wajah dan tubuh, bilas hingga bersih."
+  },
+  {
+    "id": 2,
+    "name": "Sicad Bar Soap 80gr",
+    "type": "Face & Body Soap",
+    "price": 27500,
+    "concern": [],
+    "image": "products/2.png",
+    "description": "Sabun wajah dan tubuh yang membantu mengangkat sel kulit mati dan mencegah jerawat.",
+    "usage": "Gunakan setelah basahi, gosokkan ke wajah dan tubuh, bilas hingga bersih."
+  },
+  {
+    "id": 3,
+    "name": "Playing At The Garden 250ml",
+    "type": "Body Serum",
+    "price": 69000,
+    "concern": [],
+    "image": "products/3.png",
+    "description": "Serum tubuh dengan aroma segar dan bahan alami untuk melembapkan & memperhalus kulit.",
+    "usage": "Oleskan pada kulit tubuh setelah mandi, pijat perlahan hingga meresap."
+  },
+  {
+    "id": 4,
+    "name": "I Need Me Time 250ml",
+    "type": "Body Serum",
+    "price": 72000,
+    "concern": [],
+    "image": "products/4.png",
+    "description": "Serum tubuh dengan formulasi relaksasi untuk menenangkan kulit dan memberikan efek glowing.",
+    "usage": "Oleskan setelah mandi, pijat perlahan hingga meresap."
+  },
+  {
+    "id": 5,
+    "name": "Sweet Berry Crush 250ml",
+    "type": "Body Serum",
+    "price": 69000,
+    "concern": [],
+    "image": "products/5.png",
+    "description": "Serum tubuh beraroma buah-buahan yang menyegarkan dan membantu melembapkan kulit.",
+    "usage": "Oleskan pada kulit tubuh setelah mandi, pijat perlahan hingga meresap."
+  },
+  {
+    "id": 6,
+    "name": "Playing At The Garden 250gr",
+    "type": "Body Scrub",
+    "price": 72500,
+    "concern": [],
+    "image": "products/6.png",
+    "description": "Scrub tubuh dengan partikel halus untuk mengangkat sel kulit mati dan memperhalus tekstur kulit.",
+    "usage": "Gunakan saat mandi, oleskan pada kulit basah, pijat perlahan, lalu bilas."
+  },
+  {
+    "id": 7,
+    "name": "I Need Me Time 250gr",
+    "type": "Body Scrub",
+    "price": 91000,
+    "concern": [],
+    "image": "products/7.png",
+    "description": "Scrub tubuh dengan bahan alami untuk mengangkat sel kulit mati dan memberikan efek tenang.",
+    "usage": "Oleskan pada kulit basah, pijat perlahan, bilas hingga bersih."
+  },
+  {
+    "id": 8,
+    "name": "Sweet Berry Crush 250gr",
+    "type": "Body Scrub",
+    "price": 77000,
+    "concern": [],
+    "image": "products/8.png",
+    "description": "Scrub tubuh beraroma buah yang menyegarkan untuk eksfoliasi lembut dan kulit lebih cerah.",
+    "usage": "Oleskan pada kulit basah, pijat perlahan, bilas hingga bersih."
+  },
+  {
+    "id": 9,
+    "name": "Green Edition",
+    "type": "Product Bundling",
+    "price": 169500,
+    "concern": [],
+    "image": "products/9.png",
+    "description": "Paket bundling Majie Bar Soap + Body Serum & Body Scrub (Playing At The Garden)",
+    "usage": "Gunakan kombinasi sabun, serum, dan scrub sesuai kebutuhan harian."
+  },
+  {
+    "id": 10,
+    "name": "Orange Edition",
+    "type": "Product Bundling",
+    "price": 190500,
+    "concern": [],
+    "image": "products/10.png",
+    "description": "Paket bundling Sactea Bar Soap + Body Serum & Body Scrub (I Need Me Time)",
+    "usage": "Gunakan kombinasi sabun, serum, dan scrub sesuai kebutuhan harian."
+  },
+  {
+    "id": 11,
+    "name": "Purple Edition",
+    "type": "Product Bundling",
+    "price": 173500,
+    "concern": [],
+    "image": "products/11.png",
+    "description": "Paket bundling Sicad Bar Soap + Body Serum & Body Scrub (Sweet Berry Crush)",
+    "usage": "Gunakan kombinasi sabun, serum, dan scrub sesuai kebutuhan harian."
+  },
+  {
+    "id": 12,
+    "name": "Acne Totol Tube 10g",
+    "type": "Acne Series",
+    "price": 59000,
+    "concern": [],
+    "image": "products/12.png",
+    "description": "Obat jerawat dengan formulasi khusus untuk mengurangi peradangan dan mencegah jerawat baru.",
+    "usage": "Oleskan tipis pada area jerawat, gunakan pagi & malam."
+  },
+  {
+    "id": 13,
+    "name": "Acne Cream 12.5g",
+    "type": "Acne Series",
+    "price": 85000,
+    "concern": [],
+    "image": "products/13.png",
+    "description": "Krim anti-jerawat untuk mengatasi jerawat dan bekas jerawat secara efektif.",
+    "usage": "Oleskan tipis pada area jerawat, gunakan pagi & malam."
+  },
+  {
+    "id": 14,
+    "name": "DNA Salmon Soap 60g",
+    "type": "Face Wash",
+    "price": 27500,
+    "concern": [],
+    "image": "products/14.jpg",
+    "description": "Sabun wajah dengan ekstrak salmon DNA untuk melembapkan dan memperkuat kulit.",
+    "usage": "Basahi sabun, usapkan ke wajah, bilas hingga bersih."
+  },
+  {
+    "id": 15,
+    "name": "Bulus Soap 60g",
+    "type": "Face Wash",
+    "price": 26500,
+    "concern": [],
+    "image": "products/15.jpg",
+    "description": "Sabun wajah dari ekstrak bulus untuk mengangkat komedo dan membersihkan pori-pori.",
+    "usage": "Gunakan setelah basahi, gosokkan ke wajah, bilas hingga bersih."
+  },
+  {
+    "id": 16,
+    "name": "Coffee Soap 60g",
+    "type": "Face Wash",
+    "price": 23000,
+    "concern": [],
+    "image": "products/16.png",
+    "description": "Sabun wajah dengan kafein untuk mengangkat sel kulit mati dan memberikan efek energizing.",
+    "usage": "Gunakan setelah basahi, gosokkan ke wajah, bilas hingga bersih."
+  },
+  {
+    "id": 17,
+    "name": "Honey Soap 60g",
+    "type": "Face Wash",
+    "price": 23000,
+    "concern": [],
+    "image": "products/17.jpg",
+    "description": "Sabun wajah dengan madu alami untuk melembapkan dan melindungi kulit dari iritasi.",
+    "usage": "Gunakan setelah basahi, gosokkan ke wajah, bilas hingga bersih."
+  },
+  {
+    "id": 18,
+    "name": "Rice Soap 60g",
+    "type": "Face Wash",
+    "price": 23000,
+    "concern": [],
+    "image": "products/18.jpg",
+    "description": "Sabun wajah dari ekstrak beras untuk melembapkan dan mencerahkan kulit.",
+    "usage": "Gunakan setelah basahi, gosokkan ke wajah, bilas hingga bersih."
+  },
+  {
+    "id": 19,
+    "name": "Facial Wash Bulus 100ml",
+    "type": "Face Wash",
+    "price": 58000,
+    "concern": [],
+    "image": "products/19.jpg",
+    "description": "Cairan pencuci wajah dengan ekstrak bulus untuk membersihkan kulit secara mendalam.",
+    "usage": "Tuangkan sedikit ke tangan, usapkan ke wajah, bilas hingga bersih."
+  },
+  {
+    "id": 20,
+    "name": "Facial Wash Coffee 100ml",
+    "type": "Face Wash",
+    "price": 61000,
+    "concern": [],
+    "image": "products/20.jpg",
+    "description": "Cairan pencuci wajah dengan kafein untuk mengangkat sel kulit mati dan menghidrasi.",
+    "usage": "Tuangkan sedikit ke tangan, usapkan ke wajah, bilas hingga bersih."
+  },
+  {
+    "id": 21,
+    "name": "Facial Wash Green Tea NEW 100ml",
+    "type": "Face Wash",
+    "price": 52500,
+    "concern": [],
+    "image": "products/21.jpg",
+    "description": "Cairan pencuci wajah dengan ekstrak teh hijau untuk menenangkan dan melindungi kulit.",
+    "usage": "Tuangkan sedikit ke tangan, usapkan ke wajah, bilas hingga bersih."
+  },
+  {
+    "id": 22,
+    "name": "Facial Wash Honey 100ml",
+    "type": "Face Wash",
+    "price": 52500,
+    "concern": [],
+    "image": "products/22.jpg",
+    "description": "Cairan pencuci wajah dengan madu untuk melembapkan dan melindungi kulit sensitif.",
+    "usage": "Tuangkan sedikit ke tangan, usapkan ke wajah, bilas hingga bersih."
+  },
+  {
+    "id": 23,
+    "name": "Facial Foam Glutation with Collagen 100ml",
+    "type": "Face Wash",
+    "price": 68500,
+    "concern": [],
+    "image": "products/23.jpg",
+    "description": "Cairan pencuci wajah dengan glutathione dan kolagen untuk mencerahkan dan melembapkan kulit.",
+    "usage": "Tuangkan sedikit ke tangan, usapkan ke wajah, bilas hingga bersih."
+  },
+  {
+    "id": 24,
+    "name": "Coffee Mask Tube 20g",
+    "type": "Face Mask",
+    "price": 82000,
+    "concern": [],
+    "image": "products/24.png",
+    "description": "Masker wajah berbasis kopi untuk mengangkat sel kulit mati dan menyempitkan pori-pori.",
+    "usage": "Oleskan tipis ke wajah, diamkan 15-20 menit, lalu bilas hingga bersih."
+  },
+  {
+    "id": 25,
+    "name": "Kefir Peeling Mask Powder 50g",
+    "type": "Face Mask",
+    "price": 42000,
+    "concern": [],
+    "image": "products/25.png",
+    "description": "Masker peeling berbahan kefir untuk eksfoliasi lembut dan kulit lebih halus.",
+    "usage": "Campurkan dengan air, oleskan ke wajah, diamkan 10-15 menit, lalu bilas."
+  },
+  {
+    "id": 26,
+    "name": "Sheet Mask Acne",
+    "type": "Face Mask",
+    "price": 63000,
+    "concern": [],
+    "image": "products/26.png",
+    "description": "Masker kertas untuk mengatasi jerawat dan peradangan kulit.",
+    "usage": "Tempelkan ke wajah, diamkan 15-20 menit, lalu angkat."
+  },
+  {
+    "id": 27,
+    "name": "Sheet Mask Brightening",
+    "type": "Face Mask",
+    "price": 63000,
+    "concern": [],
+    "image": "products/27.png",
+    "description": "Masker kertas untuk mencerahkan kulit dan mengurangi noda hitam.",
+    "usage": "Tempelkan ke wajah, diamkan 15-20 menit, lalu angkat."
+  },
+  {
+    "id": 28,
+    "name": "Mugwort Clay Mask 60g",
+    "type": "Face Mask",
+    "price": 73500,
+    "concern": [],
+    "image": "products/28.jpg",
+    "description": "Masker tanah liat dengan ekstrak mugwort untuk menyerap minyak dan menyempitkan pori.",
+    "usage": "Oleskan tipis ke wajah, diamkan 15-20 menit, lalu bilas hingga bersih."
+  },
+  {
+    "id": 29,
+    "name": "Booperi Misteriosa 30ml",
+    "type": "Parfume",
+    "price": 61000,
+    "concern": [],
+    "image": "products/29.png",
+    "description": "Parfum wanita dengan aroma misterius dan sensual.",
+    "usage": "Semprotkan ke leher, dada, atau pergelangan tangan."
+  },
+  {
+    "id": 30,
+    "name": "Booperi Fantasy 30ml",
+    "type": "Parfume",
+    "price": 61000,
+    "concern": [],
+    "image": "products/30.png",
+    "description": "Parfum wanita dengan aroma manis dan imajinatif.",
+    "usage": "Semprotkan ke leher, dada, atau pergelangan tangan."
+  },
+  {
+    "id": 31,
+    "name": "Booperi Premium Parfume Vanilla Romance 100ml",
+    "type": "Parfume",
+    "price": 350000,
+    "concern": [],
+    "image": "products/31.jpg",
+    "description": "Parfum premium dengan aroma vanila yang romantis dan hangat.",
+    "usage": "Semprotkan ke leher, dada, atau pergelangan tangan."
+  },
+  {
+    "id": 32,
+    "name": "Booperi Premium Parfume Secret Amor 100ml",
+    "type": "Parfume",
+    "price": 350000,
+    "concern": [],
+    "image": "products/32.jpg",
+    "description": "Parfum premium dengan aroma mewah dan sensual.",
+    "usage": "Semprotkan ke leher, dada, atau pergelangan tangan."
+  },
+  {
+    "id": 33,
+    "name": "Body Wash Aloe Vera 100ml (Tube)",
+    "type": "Body Care",
+    "price": 31500,
+    "concern": [],
+    "image": "products/33.png",
+    "description": "Sabun cair aloe vera untuk melembapkan dan menenangkan kulit.",
+    "usage": "Gunakan saat mandi, oleskan ke tubuh, bilas hingga bersih."
+  },
+  {
+    "id": 34,
+    "name": "Body Wash Aloe Vera 250ml (Tube)",
+    "type": "Body Care",
+    "price": 63000,
+    "concern": [],
+    "image": "products/34.png",
+    "description": "Sabun cair aloe vera untuk melembapkan dan menenangkan kulit.",
+    "usage": "Gunakan saat mandi, oleskan ke tubuh, bilas hingga bersih."
+  },
+  {
+    "id": 35,
+    "name": "Body Wash Black Coffee 100ml (Tube)",
+    "type": "Body Care",
+    "price": 31500,
+    "concern": [],
+    "image": "products/35.png",
+    "description": "Sabun cair kopi hitam untuk mengangkat sel kulit mati dan memberikan efek energizing.",
+    "usage": "Gunakan saat mandi, oleskan ke tubuh, bilas hingga bersih."
+  },
+  {
+    "id": 36,
+    "name": "Body Wash Black Coffee 250ml (Tube)",
+    "type": "Body Care",
+    "price": 63000,
+    "concern": [],
+    "image": "products/36.png",
+    "description": "Sabun cair kopi hitam untuk mengangkat sel kulit mati dan memberikan efek energizing.",
+    "usage": "Gunakan saat mandi, oleskan ke tubuh, bilas hingga bersih."
+  },
+  {
+    "id": 37,
+    "name": "Deodorant Spray Reguler 60ml",
+    "type": "Body Care",
+    "price": 42000,
+    "concern": [],
+    "image": "products/37.png",
+    "description": "Deodoran spray untuk mengurangi bau badan sehari-hari.",
+    "usage": "Semprotkan langsung ke ketiak setelah mandi."
+  },
+  {
+    "id": 38,
+    "name": "Deodorant Spray Premium 60ml",
+    "type": "Body Care",
+    "price": 63000,
+    "concern": [],
+    "image": "products/38.png",
+    "description": "Deodoran spray premium dengan perlindungan lebih lama.",
+    "usage": "Semprotkan langsung ke ketiak setelah mandi."
+  },
+  {
+    "id": 39,
+    "name": "Massage Oil Bulus 20ml",
+    "type": "Body Care",
+    "price": 100000,
+    "concern": [],
+    "image": "products/39.png",
+    "description": "Minyak pijat dengan ekstrak bulus untuk melembapkan dan memperbaiki kulit.",
+    "usage": "Oleskan sedikit ke kulit, pijat perlahan hingga meresap."
+  },
+  {
+    "id": 40,
+    "name": "Lightening Body Lotion 50ml (Tube)",
+    "type": "Body Care",
+    "price": 37000,
+    "concern": [],
+    "image": "products/40.jpg",
+    "description": "Lotion tubuh untuk mencerahkan kulit secara bertahap.",
+    "usage": "Oleskan setelah mandi, pijat perlahan hingga meresap."
+  },
+  {
+    "id": 41,
+    "name": "Lightening Body Lotion 100ml (Tube)",
+    "type": "Body Care",
+    "price": 52500,
+    "concern": [],
+    "image": "products/41.png",
+    "description": "Lotion tubuh untuk mencerahkan kulit secara bertahap.",
+    "usage": "Oleskan setelah mandi, pijat perlahan hingga meresap."
+  },
+  {
+    "id": 42,
+    "name": "Whitening Night Body Lotion 100ml",
+    "type": "Body Care",
+    "price": 84000,
+    "concern": [],
+    "image": "products/42.png",
+    "description": "Lotion malam untuk mencerahkan kulit saat tidur.",
+    "usage": "Oleskan sebelum tidur, pijat perlahan hingga meresap."
+  },
+  {
+    "id": 43,
+    "name": "Whitening Moisturizing Cream 100ml",
+    "type": "Body Care",
+    "price": 94500,
+    "concern": [],
+    "image": "products/43.png",
+    "description": "Krim pelembap tubuh untuk mencerahkan dan melembapkan kulit.",
+    "usage": "Oleskan setelah mandi, pijat perlahan hingga meresap."
+  },
+  {
+    "id": 44,
+    "name": "Paket Miss Manja Wash & Spray 40ml",
+    "type": "Body Care",
+    "price": 85000,
+    "concern": [],
+    "image": "products/44.png",
+    "description": "Paket kombinasi cairan pencuci dan semprotan untuk perawatan tubuh.",
+    "usage": "Gunakan sebagai body wash dan deodoran."
+  },
+  {
+    "id": 45,
+    "name": "Miss Manja Wash 40ml",
+    "type": "Body Care",
+    "price": 48000,
+    "concern": [],
+    "image": "products/45.png",
+    "description": "Cairan pencuci tubuh dengan aroma segar.",
+    "usage": "Gunakan saat mandi, oleskan ke tubuh, bilas hingga bersih."
+  },
+  {
+    "id": 46,
+    "name": "Miss Manja Spray 40ml",
+    "type": "Body Care",
+    "price": 48000,
+    "concern": [],
+    "image": "products/46.png",
+    "description": "Semprotan tubuh dengan aroma segar untuk kesegaran sepanjang hari.",
+    "usage": "Semprotkan ke tubuh setelah mandi."
+  },
+  {
+    "id": 47,
+    "name": "Shiyou Collagen Drink 100g",
+    "type": "Beauty Drink",
+    "price": 89500,
+    "concern": [],
+    "image": "products/47.png",
+    "description": "Minuman kolagen untuk meningkatkan elastisitas kulit dan kesehatan rambut.",
+    "usage": "Konsumsi 1 sendok setiap hari, bisa dicampur air atau jus."
+  },
+  {
+    "id": 48,
+    "name": "Shiyou Collagen Drink 200g",
+    "type": "Beauty Drink",
+    "price": 157500,
+    "concern": [],
+    "image": "products/48.png",
+    "description": "Minuman kolagen untuk meningkatkan elastisitas kulit dan kesehatan rambut.",
+    "usage": "Konsumsi 1 sendok setiap hari, bisa dicampur air atau jus."
+  },
+  {
+    "id": 49,
+    "name": "Shiyou Collagen Drink Sachet 225g",
+    "type": "Beauty Drink",
+    "price": 195000,
+    "concern": [],
+    "image": "products/49.webp",
+    "description": "Sachet kolagen untuk konsumsi praktis setiap hari.",
+    "usage": "Dilarutkan dalam air atau jus, minum setiap hari."
+  },
+  {
+    "id": 50,
+    "name": "Glow Mill 100g",
+    "type": "Beauty Drink",
+    "price": 84000,
+    "concern": [],
+    "image": "products/50.png",
+    "description": "Minuman serbuk untuk mencerahkan kulit dari dalam.",
+    "usage": "Dilarutkan dalam air, minum setiap hari."
+  },
+  {
+    "id": 51,
+    "name": "Glow Mill 200g",
+    "type": "Beauty Drink",
+    "price": 147000,
+    "concern": [],
+    "image": "products/51.png",
+    "description": "Minuman serbuk untuk mencerahkan kulit dari dalam.",
+    "usage": "Dilarutkan dalam air, minum setiap hari."
+  },
+  {
+    "id": 52,
+    "name": "Alorise Shampoo 100ml",
+    "type": "Hair Care",
+    "price": 37000,
+    "concern": [],
+    "image": "products/52.png",
+    "description": "Sampo ringan untuk membersihkan rambut secara lembut.",
+    "usage": "Basahi rambut, oleskan sampo, pijat kulit kepala, bilas hingga bersih."
+  },
+  {
+    "id": 53,
+    "name": "Alorise Shampoo 280ml (Pump)",
+    "type": "Hair Care",
+    "price": 89500,
+    "concern": [],
+    "image": "products/53.png",
+    "description": "Sampo dengan pompa untuk penggunaan praktis dan hemat.",
+    "usage": "Basahi rambut, oleskan sampo, pijat kulit kepala, bilas hingga bersih."
+  },
+  {
+    "id": 54,
+    "name": "Coconut Shampoo 280ml (Pump)",
+    "type": "Hair Care",
+    "price": 89500,
+    "concern": [],
+    "image": "products/54.png",
+    "description": "Sampo kelapa untuk melembapkan dan memperkuat rambut.",
+    "usage": "Basahi rambut, oleskan sampo, pijat kulit kepala, bilas hingga bersih."
+  },
+  {
+    "id": 55,
+    "name": "Hair Conditioner 125ml",
+    "type": "Hair Care",
+    "price": 71500,
+    "concern": [],
+    "image": "products/55.png",
+    "description": "Conditioner untuk melembapkan dan memudahkan sisiran rambut.",
+    "usage": "Oleskan ke ujung rambut setelah mencuci, diamkan 3-5 menit, lalu bilas."
+  },
+  {
+    "id": 56,
+    "name": "Hair Tonic Protection Spray Anti Dandruff",
+    "type": "Hair Care",
+    "price": 185000,
+    "concern": [],
+    "image": "products/56.jpg",
+    "description": "Spray pelindung rambut untuk mencegah ketombe dan rambut rontok.",
+    "usage": "Semprotkan ke kulit kepala setelah mencuci rambut."
+  },
+  {
+    "id": 57,
+    "name": "Hair Serum With Jasmine Oil",
+    "type": "Hair Care",
+    "price": 36000,
+    "concern": [],
+    "image": "products/57.png",
+    "description": "Serum rambut dengan minyak jasmin untuk melembapkan dan mengkilapkan.",
+    "usage": "Oleskan sedikit ke ujung rambut sebelum atau sesudah mencuci."
+  },
+  {
+    "id": 58,
+    "name": "Hair Serum With Rose Oil",
+    "type": "Hair Care",
+    "price": 36000,
+    "concern": [],
+    "image": "products/58.png",
+    "description": "Serum rambut dengan minyak mawar untuk melembapkan dan mengharumkan.",
+    "usage": "Oleskan sedikit ke ujung rambut sebelum atau sesudah mencuci."
+  },
+  {
+    "id": 59,
+    "name": "Daily Cover Natural 10g",
+    "type": "Personal Care",
+    "price": 105000,
+    "concern": [],
+    "image": "products/59.png",
+    "description": "Bedak tabur untuk menutupi noda dan memberikan efek natural.",
+    "usage": "Gunakan kuas atau spons, oleskan ke wajah secara merata."
+  },
+  {
+    "id": 60,
+    "name": "Daily Cover Beige 10g",
+    "type": "Personal Care",
+    "price": 105000,
+    "concern": [],
+    "image": "products/60.png",
+    "description": "Bedak tabur warna beige untuk menutupi noda dan memberikan efek natural.",
+    "usage": "Gunakan kuas atau spons, oleskan ke wajah secara merata."
+  },
+  {
+    "id": 61,
+    "name": "Daily Cover Pink 10g",
+    "type": "Personal Care",
+    "price": 105000,
+    "concern": [],
+    "image": "products/61.png",
+    "description": "Bedak tabur warna pink untuk menutupi noda dan memberikan efek natural.",
+    "usage": "Gunakan kuas atau spons, oleskan ke wajah secara merata."
+  },
+  {
+    "id": 62,
+    "name": "Perfect Eye Brow 0.35g",
+    "type": "Personal Care",
+    "price": 68500,
+    "concern": [],
+    "image": "products/62.png",
+    "description": "Pensil alis untuk menambah volume dan bentuk alis.",
+    "usage": "Gambar alis sesuai bentuk wajah, gunakan sikat untuk menyikat."
+  },
+  {
+    "id": 63,
+    "name": "Perfect Eye 2in1",
+    "type": "Personal Care",
+    "price": 121000,
+    "concern": [],
+    "image": "products/63.png",
+    "description": "Produk 2-in-1 untuk mata (eyeshadow & eyeliner).",
+    "usage": "Gunakan dengan kuas atau jari, oleskan ke kelopak mata."
+  },
+  {
+    "id": 64,
+    "name": "Matte Cover Natural Loose Powder 15g",
+    "type": "Personal Care",
+    "price": 89500,
+    "concern": [],
+    "image": "products/64.png",
+    "description": "Bedak bubuk matte untuk menyerap minyak dan memberikan efek natural.",
+    "usage": "Gunakan kuas, oleskan ke wajah secara merata."
+  },
+  {
+    "id": 65,
+    "name": "Perfect Cushion Natural 15g",
+    "type": "Personal Care",
+    "price": 168000,
+    "concern": [],
+    "image": "products/65.png",
+    "description": "Cushion foundation dengan warna natural untuk kulit cerah.",
+    "usage": "Tekan spons ke cushion, oleskan ke wajah secara merata."
+  },
+  {
+    "id": 66,
+    "name": "Perfect Cushion Ivory 15g",
+    "type": "Personal Care",
+    "price": 168000,
+    "concern": [],
+    "image": "products/66.png",
+    "description": "Cushion foundation dengan warna ivory untuk kulit cerah.",
+    "usage": "Tekan spons ke cushion, oleskan ke wajah secara merata."
+  },
+  {
+    "id": 67,
+    "name": "Refill Perfect Cushion Natural 15g",
+    "type": "Personal Care",
+    "price": 126000,
+    "concern": [],
+    "image": "products/67.jpg",
+    "description": "Isi ulang cushion foundation warna natural.",
+    "usage": "Masukkan ke dalam casing cushion, gunakan seperti biasa."
+  },
+  {
+    "id": 68,
+    "name": "Refill Perfect Cushion Ivory 15g",
+    "type": "Personal Care",
+    "price": 126000,
+    "concern": [],
+    "image": "products/68.jpg",
+    "description": "Isi ulang cushion foundation warna ivory.",
+    "usage": "Masukkan ke dalam casing cushion, gunakan seperti biasa."
+  },
+  {
+    "id": 69,
+    "name": "Nail Polish Peel Off 6ml (all colour)",
+    "type": "Personal Care",
+    "price": 52500,
+    "concern": [],
+    "image": "products/69.jpeg",
+    "description": "Cat kuku yang bisa dilepas dengan mudah tanpa pewarna.",
+    "usage": "Aplikasikan ke kuku, biarkan kering, lalu lepaskan dengan tangan."
+  },
+  {
+    "id": 70,
+    "name": "Paket Promo Nail Polish (buy 2 get 2)",
+    "type": "Personal Care",
+    "price": 100000,
+    "concern": [],
+    "image": "products/70.png",
+    "description": "Paket promosi cat kuku (beli 2 gratis 2).",
+    "usage": "Aplikasikan ke kuku, biarkan kering."
+  },
+  {
+    "id": 71,
+    "name": "Lip Treatment Package (3 in 1)",
+    "type": "Personal Care",
+    "price": 115000,
+    "concern": [],
+    "image": "products/71.jpg",
+    "description": "Paket perawatan bibir (peel off, scrub, dan lip balm).",
+    "usage": "Gunakan sesuai kebutuhan: peel off, scrub, lalu balm."
+  },
+  {
+    "id": 72,
+    "name": "Lip Care Cherry 5g",
+    "type": "Personal Care",
+    "price": 26500,
+    "concern": [],
+    "image": "products/72.png",
+    "description": "Pelembap bibir dengan aroma cherry untuk menjaga kelembapan.",
+    "usage": "Oleskan ke bibir kering, gunakan sehari-hari."
+  },
+  {
+    "id": 73,
+    "name": "Lip Care Natural 5g",
+    "type": "Personal Care",
+    "price": 26500,
+    "concern": [],
+    "image": "products/73.png",
+    "description": "Pelembap bibir alami untuk menjaga kelembapan.",
+    "usage": "Oleskan ke bibir kering, gunakan sehari-hari."
+  },
+  {
+    "id": 74,
+    "name": "Lip Scrub Exfoliator & Moisturizer 6g",
+    "type": "Personal Care",
+    "price": 39000,
+    "concern": [],
+    "image": "products/74.png",
+    "description": "Scrub bibir untuk mengangkat sel kulit mati dan melembapkan.",
+    "usage": "Oleskan ke bibir, pijat perlahan, lalu bilas atau lap dengan tisu."
+  },
+  {
+    "id": 75,
+    "name": "Lip Cream SR01 2g",
+    "type": "Personal Care",
+    "price": 58000,
+    "concern": [],
+    "image": "products/75.png",
+    "description": "Cream bibir dengan formula pelembap dan perlindungan UV.",
+    "usage": "Oleskan ke bibir kering, gunakan sehari-hari."
+  },
+  {
+    "id": 76,
+    "name": "Lip Cream SR04 2g",
+    "type": "Personal Care",
+    "price": 58000,
+    "concern": [],
+    "image": "products/76.png",
+    "description": "Cream bibir dengan formula pelembap dan perlindungan UV.",
+    "usage": "Oleskan ke bibir kering, gunakan sehari-hari."
+  },
+  {
+    "id": 77,
+    "name": "Lip Cream SR13 2g",
+    "type": "Personal Care",
+    "price": 58000,
+    "concern": [],
+    "image": "products/77.png",
+    "description": "Cream bibir dengan formula pelembap dan perlindungan UV.",
+    "usage": "Oleskan ke bibir kering, gunakan sehari-hari."
+  },
+  {
+    "id": 78,
+    "name": "Lip Matte Cream Cherish Me 2g",
+    "type": "Personal Care",
+    "price": 58000,
+    "concern": [],
+    "image": "products/78.png",
+    "description": "Lip cream matte dengan warna soft dan nyaman dipakai.",
+    "usage": "Aplikasikan langsung ke bibir."
+  },
+  {
+    "id": 79,
+    "name": "Lip Matte Cream Nude Berry 2g",
+    "type": "Personal Care",
+    "price": 58000,
+    "concern": [],
+    "image": "products/79.png",
+    "description": "Lip cream matte dengan warna nude berry yang elegan.",
+    "usage": "Aplikasikan langsung ke bibir."
+  },
+  {
+    "id": 80,
+    "name": "Lip Matte Cream Sweet Pink 2g",
+    "type": "Personal Care",
+    "price": 58000,
+    "concern": [],
+    "image": "products/80.png",
+    "description": "Lip cream matte dengan warna pink manis untuk tampilan segar.",
+    "usage": "Aplikasikan langsung ke bibir."
+  },
+  {
+    "id": 81,
+    "name": "Lip Matte Cream Honey Berry 2g",
+    "type": "Personal Care",
+    "price": 58000,
+    "concern": [],
+    "image": "products/81.jpg",
+    "description": "Lip cream matte dengan warna honey berry yang hangat.",
+    "usage": "Aplikasikan langsung ke bibir."
+  },
+  {
+    "id": 82,
+    "name": "Lip Glow Serum 2g",
+    "type": "Personal Care",
+    "price": 52500,
+    "concern": [],
+    "image": "products/82.png",
+    "description": "Serum bibir untuk memberikan efek glow dan melembapkan.",
+    "usage": "Oleskan ke bibir sebelum makeup atau setelah."
+  },
+  {
+    "id": 83,
+    "name": "Lip Mousse Cream 2g",
+    "type": "Personal Care",
+    "price": 58000,
+    "concern": [],
+    "image": "products/83.png",
+    "description": "Lip mousse dengan tekstur ringan dan warna natural.",
+    "usage": "Aplikasikan langsung ke bibir."
+  },
+  {
+    "id": 84,
+    "name": "Lip Mousse Rose Pink 2g",
+    "type": "Personal Care",
+    "price": 58000,
+    "concern": [],
+    "image": "products/84.png",
+    "description": "Lip mousse dengan warna rose pink yang segar.",
+    "usage": "Aplikasikan langsung ke bibir."
+  },
+  {
+    "id": 85,
+    "name": "Lip Mousse Sweet Brown 2g",
+    "type": "Personal Care",
+    "price": 58000,
+    "concern": [],
+    "image": "products/85.png",
+    "description": "Lip mousse dengan warna brown manis untuk tampilan natural.",
+    "usage": "Aplikasikan langsung ke bibir."
+  },
+  {
+    "id": 86,
+    "name": "Lip Tint Gel Sweet Orange 2g",
+    "type": "Personal Care",
+    "price": 52500,
+    "concern": [],
+    "image": "products/86.png",
+    "description": "Lip tint gel dengan warna orange manis untuk tampilan segar.",
+    "usage": "Aplikasikan langsung ke bibir."
+  },
+  {
+    "id": 87,
+    "name": "Perfect Cover BB Cream Natural Beige 30ml",
+    "type": "Personal Care",
+    "price": 68500,
+    "concern": [],
+    "image": "products/87.png",
+    "description": "BB cream untuk menutupi noda dan memberikan efek natural.",
+    "usage": "Oleskan ke wajah secara merata, gunakan kuas atau spons."
+  },
+  {
+    "id": 88,
+    "name": "Perfect Cream Blush Peach 3g",
+    "type": "Personal Care",
+    "price": 40000,
+    "concern": [],
+    "image": "products/88.png",
+    "description": "Blush on dengan warna peach untuk tampilan segar.",
+    "usage": "Gunakan kuas, oleskan ke pipi."
+  },
+  {
+    "id": 89,
+    "name": "Perfect Cream Blush Pink 3g",
+    "type": "Personal Care",
+    "price": 40000,
+    "concern": [],
+    "image": "products/89.png",
+    "description": "Blush on dengan warna pink untuk tampilan segar.",
+    "usage": "Gunakan kuas, oleskan ke pipi."
+  },
+  {
+    "id": 90,
+    "name": "Brightening Day Cream 10g",
+    "type": "Face Care",
+    "price": 121000,
+    "concern": [],
+    "image": "products/90.png",
+    "description": "Krim siang untuk mencerahkan kulit dan melindungi dari sinar UV.",
+    "usage": "Oleskan ke wajah sebelum aktivitas di luar ruangan."
+  },
+  {
+    "id": 91,
+    "name": "Brightening Night Cream 10g",
+    "type": "Face Care",
+    "price": 121000,
+    "concern": [],
+    "image": "products/91.png",
+    "description": "Krim malam untuk mencerahkan kulit saat tidur.",
+    "usage": "Oleskan ke wajah sebelum tidur."
+  },
+  {
+    "id": 92,
+    "name": "Milk Cleanser Tube 100ml",
+    "type": "Face Care",
+    "price": 70500,
+    "concern": [],
+    "image": "products/92.png",
+    "description": "Pembersih wajah berbasis susu untuk membersihkan kulit secara lembut.",
+    "usage": "Oleskan ke wajah basah, pijat perlahan, bilas hingga bersih."
+  },
+  {
+    "id": 93,
+    "name": "GGS Series",
+    "type": "Face Care",
+    "price": 278500,
+    "concern": [],
+    "image": "products/93.jpg",
+    "description": "Paket perawatan wajah komprehensif untuk kulit sehat dan glowing.",
+    "usage": "Gunakan sesuai instruksi paket."
+  },
+  {
+    "id": 94,
+    "name": "Glow Glass Skin Gel",
+    "type": "Face Care",
+    "price": 194500,
+    "concern": [],
+    "image": "products/94.jpg",
+    "description": "Gel wajah untuk memberikan efek glowing dan melembapkan.",
+    "usage": "Oleskan ke wajah setelah toner, pijat perlahan hingga meresap."
+  },
+  {
+    "id": 95,
+    "name": "Lightening Serum 20ml",
+    "type": "Face Care",
+    "price": 147000,
+    "concern": [],
+    "image": "products/95.png",
+    "description": "Serum untuk mencerahkan kulit secara bertahap.",
+    "usage": "Oleskan ke wajah setelah toner, pijat perlahan hingga meresap."
+  },
+  {
+    "id": 96,
+    "name": "Micellar Water 100ml",
+    "type": "Face Care",
+    "price": 47500,
+    "concern": [],
+    "image": "products/96.png",
+    "description": "Air micellar untuk membersihkan wajah tanpa sabun.",
+    "usage": "Basahi kapas, usapkan ke wajah untuk mengangkat makeup dan kotoran."
+  },
+  {
+    "id": 97,
+    "name": "Nature Rose Water 60ml",
+    "type": "Face Care",
+    "price": 38000,
+    "concern": [],
+    "image": "products/97.png",
+    "description": "Air mawar alami untuk menenangkan dan melembapkan kulit.",
+    "usage": "Oleskan ke wajah dengan kapas atau langsung."
+  },
+  {
+    "id": 98,
+    "name": "Nature Rose Water 100ml",
+    "type": "Face Care",
+    "price": 52500,
+    "concern": [],
+    "image": "products/98.png",
+    "description": "Air mawar alami untuk menenangkan dan melembapkan kulit.",
+    "usage": "Oleskan ke wajah dengan kapas atau langsung."
+  },
+  {
+    "id": 99,
+    "name": "Nature Secret Water 60ml",
+    "type": "Face Care",
+    "price": 38000,
+    "concern": [],
+    "image": "products/99.png",
+    "description": "Air sekret alami untuk menenangkan dan melembapkan kulit.",
+    "usage": "Oleskan ke wajah dengan kapas atau langsung."
+  },
+  {
+    "id": 100,
+    "name": "Nature Secret Water 100ml",
+    "type": "Face Care",
+    "price": 52500,
+    "concern": [],
+    "image": "products/100.png",
+    "description": "Air sekret alami untuk menenangkan dan melembapkan kulit.",
+    "usage": "Oleskan ke wajah dengan kapas atau langsung."
+  },
+  {
+    "id": 101,
+    "name": "Revitalizing Serum by SR12 20ml",
+    "type": "Face Care",
+    "price": 91500,
+    "concern": [],
+    "image": "products/101.png",
+    "description": "Serum revitalisasi untuk mengembalikan kecerahan dan elastisitas kulit.",
+    "usage": "Oleskan ke wajah setelah toner, pijat perlahan hingga meresap."
+  },
+  {
+    "id": 102,
+    "name": "Serum Retinol 20ml",
+    "type": "Face Care",
+    "price": 147000,
+    "concern": [],
+    "image": "products/102.png",
+    "description": "Serum retinol untuk mengurangi keriput dan mencerahkan kulit.",
+    "usage": "Oleskan ke wajah malam hari, gunakan secara konsisten."
+  },
+  {
+    "id": 103,
+    "name": "Spot Essence Day Cream 10g",
+    "type": "Face Care",
+    "price": 136500,
+    "concern": [],
+    "image": "products/103.png",
+    "description": "Krim siang untuk mengatasi noda hitam dan mencerahkan kulit.",
+    "usage": "Oleskan ke wajah sebelum aktivitas di luar ruangan."
+  },
+  {
+    "id": 104,
+    "name": "Spot Essence Night Cream 10g",
+    "type": "Face Care",
+    "price": 136500,
+    "concern": [],
+    "image": "products/104.png",
+    "description": "Krim malam untuk mengatasi noda hitam dan mencerahkan kulit.",
+    "usage": "Oleskan ke wajah sebelum tidur."
+  },
+  {
+    "id": 105,
+    "name": "Suncare Lotion 15g",
+    "type": "Face Care",
+    "price": 55500,
+    "concern": [],
+    "image": "products/105.png",
+    "description": "Lotion pelindung kulit dari sinar UV.",
+    "usage": "Oleskan ke wajah sebelum beraktivitas di luar ruangan."
+  },
+  {
+    "id": 106,
+    "name": "Sunblock 15g",
+    "type": "Face Care",
+    "price": 58000,
+    "concern": [],
+    "image": "products/106.png",
+    "description": "Sunblock untuk melindungi kulit dari sinar UV.",
+    "usage": "Oleskan ke wajah sebelum beraktivitas di luar ruangan."
+  },
+  {
+    "id": 107,
+    "name": "Sunscreen Gel SPF 50 PA+++ 30g",
+    "type": "Face Care",
+    "price": 98000,
+    "concern": [],
+    "image": "products/107.png",
+    "description": "Gel sunscreen tinggi untuk perlindungan maksimal dari sinar UV.",
+    "usage": "Oleskan ke wajah sebelum beraktivitas di luar ruangan."
+  },
+  {
+    "id": 108,
+    "name": "Toner Chamomile 60ml",
+    "type": "Face Care",
+    "price": 63000,
+    "concern": [],
+    "image": "products/108.png",
+    "description": "Toner dengan ekstrak chamomile untuk menenangkan kulit.",
+    "usage": "Oleskan ke wajah dengan kapas setelah mencuci wajah."
+  },
+  {
+    "id": 109,
+    "name": "Toner AHA 60ml",
+    "type": "Face Care",
+    "price": 73500,
+    "concern": [],
+    "image": "products/109.png",
+    "description": "Toner dengan AHA untuk eksfoliasi lembut dan mencerahkan kulit.",
+    "usage": "Oleskan ke wajah dengan kapas setelah mencuci wajah."
+  },
+  {
+    "id": 110,
+    "name": "Toner BHA 60ml",
+    "type": "Face Care",
+    "price": 73500,
+    "concern": [],
+    "image": "products/110.png",
+    "description": "Toner dengan BHA untuk membersihkan pori-pori dan mengurangi jerawat.",
+    "usage": "Oleskan ke wajah dengan kapas setelah mencuci wajah."
+  },
+  {
+    "id": 111,
+    "name": "Ceramide Skin Barrier Care 18g",
+    "type": "Face Care",
+    "price": 93500,
+    "concern": [],
+    "image": "products/111.png",
+    "description": "Krim pemelihara barrier kulit untuk melembapkan dan melindungi kulit.",
+    "usage": "Oleskan ke wajah setelah toner, pijat perlahan hingga meresap."
+  },
+  {
+    "id": 112,
+    "name": "DNA Salmon Series Package",
+    "type": "Face Care",
+    "price": 185000,
+    "concern": [],
+    "image": "products/112.png",
+    "description": "Paket perawatan wajah dengan ekstrak salmon DNA untuk kulit sehat dan glowing.",
+    "usage": "Gunakan sesuai instruksi paket."
+  },
+  {
+    "id": 113,
+    "name": "DNA Salmon Day Cream 10gr",
+    "type": "Face Care",
+    "price": 80000,
+    "concern": [],
+    "image": "products/113.jpg",
+    "description": "Krim siang dengan ekstrak salmon DNA untuk melembapkan dan melindungi kulit.",
+    "usage": "Oleskan ke wajah sebelum aktivitas di luar ruangan."
+  },
+  {
+    "id": 114,
+    "name": "DNA Salmon Night Cream 10gr",
+    "type": "Face Care",
+    "price": 80000,
+    "concern": [],
+    "image": "products/114.jpg",
+    "description": "Krim malam dengan ekstrak salmon DNA untuk memperbaiki kulit saat tidur.",
+    "usage": "Oleskan ke wajah sebelum tidur."
+  },
+  {
+    "id": 115,
+    "name": "Face Oil Serum 18ml",
+    "type": "Face Care",
+    "price": 125000,
+    "concern": [],
+    "image": "products/115.png",
+    "description": "Serum minyak untuk melembapkan dan memperbaiki kulit.",
+    "usage": "Oleskan beberapa tetes ke wajah setelah toner, pijat perlahan hingga meresap."
+  },
+  {
+    "id": 116,
+    "name": "Go Milku 200g (Original)",
+    "type": "Herbal",
+    "price": 52500,
+    "concern": [],
+    "image": "products/116.png",
+    "description": "Minuman herbal dari ekstrak alami untuk meningkatkan daya tahan tubuh.",
+    "usage": "Dilarutkan dalam air, minum setiap hari."
+  },
+  {
+    "id": 117,
+    "name": "Go Milku 600g (Original)",
+    "type": "Herbal",
+    "price": 131500,
+    "concern": [],
+    "image": "products/117.png",
+    "description": "Minuman herbal dari ekstrak alami untuk meningkatkan daya tahan tubuh.",
+    "usage": "Dilarutkan dalam air, minum setiap hari."
+  },
+  {
+    "id": 118,
+    "name": "Go Milku 40 sachet (Original)",
+    "type": "Herbal",
+    "price": 215000,
+    "concern": [],
+    "image": "products/118.png",
+    "description": "Sachet minuman herbal untuk konsumsi praktis.",
+    "usage": "Dilarutkan dalam air, minum setiap hari."
+  },
+    {
+    "id": 119,
+    "name": "Go Milku 200g (Coklat)",
+    "type": "Herbal",
+    "price": 52500,
+    "concern": [],
+    "image": "products/119.png",
+    "description": "Minuman herbal dari ekstrak alami untuk meningkatkan daya tahan tubuh.",
+    "usage": "Dilarutkan dalam air, minum setiap hari."
+  },
+  {
+    "id": 120,
+    "name": "Go Milku 600g (Coklat)",
+    "type": "Herbal",
+    "price": 131500,
+    "concern": [],
+    "image": "products/120.png",
+    "description": "Minuman herbal dari ekstrak alami untuk meningkatkan daya tahan tubuh.",
+    "usage": "Dilarutkan dalam air, minum setiap hari."
+  },
+  {
+    "id": 121,
+    "name": "Go Milku 40 sachet (Coklat)",
+    "type": "Herbal",
+    "price": 215000,
+    "concern": [],
+    "image": "products/121.png",
+    "description": "Sachet minuman herbal untuk konsumsi praktis.",
+    "usage": "Dilarutkan dalam air, minum setiap hari."
+  },
+    {
+    "id": 122,
+    "name": "Go Milku 200g (Stroberi)",
+    "type": "Herbal",
+    "price": 52500,
+    "concern": [],
+    "image": "products/122.png",
+    "description": "Minuman herbal dari ekstrak alami untuk meningkatkan daya tahan tubuh.",
+    "usage": "Dilarutkan dalam air, minum setiap hari."
+  },
+  {
+    "id": 123,
+    "name": "Go Milku 600g (Stroberi)",
+    "type": "Herbal",
+    "price": 131500,
+    "concern": [],
+    "image": "products/123.png",
+    "description": "Minuman herbal dari ekstrak alami untuk meningkatkan daya tahan tubuh.",
+    "usage": "Dilarutkan dalam air, minum setiap hari."
+  },
+  {
+    "id": 124,
+    "name": "Go Milku 40 sachet (Stroberi)",
+    "type": "Herbal",
+    "price": 215000,
+    "concern": [],
+    "image": "products/124.png",
+    "description": "Sachet minuman herbal untuk konsumsi praktis.",
+    "usage": "Dilarutkan dalam air, minum setiap hari."
+  },
+  {
+    "id": 125,
+    "name": "Go Milku Gold 200g",
+    "type": "Herbal",
+    "price": 55000,
+    "concern": [],
+    "image": "products/125.png",
+    "description": "Minuman herbal premium dengan ekstrak emas untuk kesehatan tubuh.",
+    "usage": "Dilarutkan dalam air, minum setiap hari."
+  },
+
+    {
+    "id": 126,
+    "name": "Go Milku Gold 600g",
+    "type": "Herbal",
+    "price": 136000,
+    "concern": [],
+    "image": "products/126.png",
+    "description": "Minuman herbal premium dengan ekstrak emas untuk kesehatan tubuh.",
+    "usage": "Dilarutkan dalam air, minum setiap hari."
+  },
+
+    {
+    "id": 127,
+    "name": "Go Milku Gold 40 Sachet",
+    "type": "Herbal",
+    "price": 220000,
+    "concern": [],
+    "image": "products/127.png",
+    "description": "Minuman herbal premium dengan ekstrak emas untuk kesehatan tubuh.",
+    "usage": "Dilarutkan dalam air, minum setiap hari."
+  }
+]
