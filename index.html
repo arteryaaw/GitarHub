@@ -87,17 +87,11 @@
         Kategori Produk
     </h2>
 
-    <div class="max-w-7xl mx-auto grid md:grid-cols-3 lg:grid-cols-6 gap-6 px-6">
+    <div class="max-w-7xl mx-auto grid md:grid-cols-3 lg:grid-cols-3 gap-6 px-6">
 
         <div class="bg-white rounded-xl shadow p-6 text-center">🎸<br>Akustik</div>
 
-        <div class="bg-white rounded-xl shadow p-6 text-center">⚡<br>Elektrik</div>
-
         <div class="bg-white rounded-xl shadow p-6 text-center">🎼<br>Klasik</div>
-
-        <div class="bg-white rounded-xl shadow p-6 text-center">🎵<br>Bass</div>
-
-        <div class="bg-white rounded-xl shadow p-6 text-center">🎶<br>Ukulele</div>
 
         <div class="bg-white rounded-xl shadow p-6 text-center">🎧<br>Aksesoris</div>
 
@@ -115,101 +109,6 @@
     </h2>
 
     <div id="productGrid" class="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
-
-
-<!--
-      <a href="#" class="group bg-black rounded-xl overflow-hidden shadow-lg hover:shadow-yellow-500/20 transition duration-300">
-
-        <img src="assets/images/gitar1.jpg"
-        class="h-72 w-full object-cover group-hover:scale-105 duration-300">
-
-        <div class="p-4">
-
-          <h3 class="text-white font-semibold text-lg">
-            Gitar Akustik Premium
-          </h3>
-
-          <p class="text-yellow-500 font-bold text-xl mt-2">
-            Rp 1.800.000
-          </p>
-
-          <button class="mt-4 w-full bg-yellow-500 text-black py-2 rounded-lg font-semibold hover:bg-yellow-400">
-            Beli Sekarang
-          </button>
-
-        </div>
-
-      </a>
-
-      <a href="#" class="group bg-black rounded-xl overflow-hidden shadow-lg hover:shadow-yellow-500/20 transition duration-300">
-
-        <img src="assets/images/gitar2.jpg"
-        class="h-72 w-full object-cover group-hover:scale-105 duration-300">
-
-        <div class="p-4">
-
-          <h3 class="text-white font-semibold text-lg">
-            Gitar Elektrik Modern
-          </h3>
-
-          <p class="text-yellow-500 font-bold text-xl mt-2">
-            Rp 3.500.000
-          </p>
-
-          <button class="mt-4 w-full bg-yellow-500 text-black py-2 rounded-lg font-semibold hover:bg-yellow-400">
-            Beli Sekarang
-          </button>
-
-        </div>
-
-      </a>
-
-      <a href="#" class="group bg-black rounded-xl overflow-hidden shadow-lg hover:shadow-yellow-500/20 transition duration-300">
-
-        <img src="assets/images/gitar3.jpg"
-        class="h-72 w-full object-cover group-hover:scale-105 duration-300">
-
-        <div class="p-4">
-
-          <h3 class="text-white font-semibold text-lg">
-            Bass Profesional
-          </h3>
-
-          <p class="text-yellow-500 font-bold text-xl mt-2">
-            Rp 4.200.000
-          </p>
-
-          <button class="mt-4 w-full bg-yellow-500 text-black py-2 rounded-lg font-semibold hover:bg-yellow-400">
-            Beli Sekarang
-          </button>
-
-        </div>
-
-      </a>
-
-      <a href="#" class="group bg-black rounded-xl overflow-hidden shadow-lg hover:shadow-yellow-500/20 transition duration-300">
-
-        <img src="assets/images/gitar4.jpg"
-        class="h-72 w-full object-cover group-hover:scale-105 duration-300">
-
-        <div class="p-4">
-
-          <h3 class="text-white font-semibold text-lg">
-            Ukulele Mahoni
-          </h3>
-
-          <p class="text-yellow-500 font-bold text-xl mt-2">
-            Rp 950.000
-          </p>
-
-          <button class="mt-4 w-full bg-yellow-500 text-black py-2 rounded-lg font-semibold hover:bg-yellow-400">
-            Beli Sekarang
-          </button>
-
-        </div>
-
-      </a>
-      -->
 
     </div>
 
@@ -260,11 +159,9 @@
             Hubungi Kami
         </h2>
 
-        <p>Email: support@guitarhub.com</p>
+        <p>WhatsApp: 0858-7829-9863</p>
 
-        <p>WhatsApp: 0812-3456-7890</p>
-
-        <p>Surakarta, Jawa Tengah</p>
+        <p>Bendo Ketitang, Juwiring, Klaten</p>
 
     </div>
 
@@ -324,21 +221,6 @@
     </div>
 </div>
 
-<!-- FILTER SIDEBAR -->
-<div id="filter-sidebar" class="hidden md:block fixed left-0 top-20 h-screen w-64 bg-white border-r p-4 overflow-y-auto z-30">
-    <h3 class="font-bold mb-4">Filter Produk</h3>
-    <div class="mb-6">
-        <h4 class="font-semibold text-sm mb-2">Tipe Produk</h4>
-        <div id="type-filter-list"></div>
-    </div>
-    <div class="mb-6">
-        <h4 class="font-semibold text-sm mb-2">Harga</h4>
-        <input type="number" id="min-price" class="price-input w-full border rounded px-2 py-1 mb-2" placeholder="Min">
-        <input type="number" id="max-price" class="price-input w-full border rounded px-2 py-1" placeholder="Max">
-    </div>
-    <button id="reset-filter" class="w-full bg-gray-300 hover:bg-gray-400 py-2 rounded text-sm">Reset Filter</button>
-</div>
-
 <!-- SCROLL TO TOP BUTTON -->
 <button id="scrollTopBtn" class="hidden fixed bottom-6 right-6 bg-yellow-500 hover:bg-yellow-600 text-black p-3 rounded-full text-2xl z-40">
     ↑
@@ -355,16 +237,13 @@
     let cart = JSON.parse(localStorage.getItem('sr12cart')) || [];
     
     // GANTI DENGAN NOMOR WA ANDA
-    const yourWhatsAppNumber = '6285811112788';
+    const yourWhatsAppNumber = '6281217789598';
 
     // =================================================================
     // B. DOM ELEMENT SELECTORS
     // =================================================================
     
     const productGrid = document.getElementById("productGrid");
-    const typeFilterList = document.getElementById("type-filter-list");
-    const filterSidebar = document.getElementById('filter-sidebar');
-    const resetFilterBtn = document.getElementById('reset-filter');
     
     // Cart elements
     const openCartBtn = document.getElementById('openCartBtn');
@@ -380,7 +259,7 @@
     const quickViewModal = document.getElementById("quickView");
 
     // =================================================================
-    // C. CORE FUNCTIONS (Rendering, Cart, Filter, etc.)
+    // C. CORE FUNCTIONS (Rendering, Cart, etc.)
     // =================================================================
 
     /**
@@ -393,70 +272,22 @@
         return await response.json();
         } catch (error) {
         console.error("Could not fetch products:", error);
-        productGrid.innerHTML = "<p>Gagal memuat produk. Silakan coba lagi nanti.</p>";
+        productGrid.innerHTML = "<p class='text-white'>Gagal memuat produk. Silakan coba lagi nanti.</p>";
         return [];
         }
-    }
-
-    /**
-     * Generates filter checkboxes from the product list.
-     */
-    function generateFilterUI(products) {
-        const typeSet = new Set(products.map(p => p.type));
-        const filterHTML = Array.from(typeSet).sort().map(type => {
-        const id = "type-" + type.replace(/\W+/g, '').toLowerCase();
-        return `
-            <label class="flex items-center gap-2 cursor-pointer">
-            <input type="checkbox" name="product_type" value="${type}" id="${id}" class="filter-input"/> ${type}
-            </label>
-        `;
-        }).join('');
-        typeFilterList.innerHTML = filterHTML;
-        setupKategoriBtnFilters(); // <-- add this here
-    }
-
-    // Kategori button filter logic
-    function setupKategoriBtnFilters() {
-      const kategoriBtns = document.querySelectorAll('.kategori-btn');
-      kategoriBtns.forEach(btn => {
-        btn.onclick = function() {
-          const type = this.getAttribute('data-type');
-          const id = 'type-' + type.replace(/\W+/g, '').toLowerCase();
-          const checkbox = document.getElementById(id);
-          if (!checkbox) return;
-          checkbox.checked = !checkbox.checked;
-          checkbox.dispatchEvent(new Event('input', { bubbles: true }));
-          // Toggle active style
-          this.classList.toggle('bg-emerald-500', checkbox.checked);
-          this.classList.toggle('text-white', checkbox.checked);
-          this.classList.toggle('bg-emerald-100', !checkbox.checked);
-        };
-      });
-      // Sync kategori button state with filter checkboxes on filter change
-      document.getElementById('filter-sidebar').addEventListener('input', function() {
-        kategoriBtns.forEach(btn => {
-          const type = btn.getAttribute('data-type');
-          const id = 'type-' + type.replace(/\W+/g, '').toLowerCase();
-          const checkbox = document.getElementById(id);
-          if (checkbox && checkbox.checked) {
-            btn.classList.add('bg-emerald-500', 'text-white');
-            btn.classList.remove('bg-emerald-100');
-          } else {
-            btn.classList.remove('bg-emerald-500', 'text-white');
-            btn.classList.add('bg-emerald-100');
-          }
-        });
-      });
     }
 
     /**
      * Renders all product cards into the grid.
      */
     function renderProducts(products) {
-        if (products.length === 0) return;
+        if (products.length === 0) {
+            productGrid.innerHTML = "<p class='text-white'>Tidak ada produk tersedia.</p>";
+            return;
+        }
         const productHTML = products.map(product => `
         <div class="product-card group bg-white border border-neutral-200 rounded-2xl p-3 flex flex-col hover:shadow-soft transition" data-type="${product.type}" data-price="${product.price}" data-id="${product.id}">
-            <div class="aspect-square rounded-xl bg-skin-accent/40 border mb-3 overflow-hidden flex items-center justify-center">
+            <div class="aspect-square rounded-xl bg-neutral-100 border mb-3 overflow-hidden flex items-center justify-center">
             <img src="${product.image}" alt="${product.name}" class="w-full h-full object-cover">
             </div>
             <div class="flex-grow">
@@ -477,24 +308,6 @@
         `).join('');
         productGrid.innerHTML = productHTML;
     }
-    
-    /**
-     * Applies filters based on user selection.
-     */
-    function applyFilters() {
-        const activeTypes = Array.from(document.querySelectorAll('input[name="product_type"]:checked')).map(el => el.value);
-        const minPrice = parseFloat(document.getElementById('min-price').value) || 0;
-        const maxPrice = parseFloat(document.getElementById('max-price').value) || Infinity;
-        const productCards = document.querySelectorAll('.product-card');
-
-        productCards.forEach(card => {
-        const price = parseFloat(card.dataset.price);
-        const type = card.dataset.type;
-        const typeMatch = activeTypes.length === 0 || activeTypes.includes(type);
-        const priceMatch = price >= minPrice && price <= maxPrice;
-        card.style.display = (typeMatch && priceMatch) ? 'flex' : 'none';
-        });
-    }
 
     // --- Cart Functions ---
     function saveCart() {
@@ -505,6 +318,7 @@
         return new Intl.NumberFormat('id-ID', { style: 'currency', currency: 'IDR', minimumFractionDigits: 0 }).format(number);
     }
 
+    /************* 💡 SCRIPT WORK DI SINI  *************/
     function addToCart(id, name, price, image) {
         const existingItem = cart.find(item => item.id === id);
         if (existingItem) {
@@ -549,6 +363,26 @@
         updateWhatsAppLink(total);
     }
 
+    checkoutWaBtn.addEventListener('click', function(e) {
+    // 1. Cegah browser membuka link secara langsung
+    e.preventDefault(); 
+    
+    // 2. Pastikan keranjang tidak kosong
+    if (cart.length > 0) {
+        // Ambil url WhatsApp yang sudah dibuat oleh fungsi updateWhatsAppLink
+        const waUrl = this.href; 
+        
+        // 3. Kosongkan keranjang di program dan LocalStorage secara instan
+        cart = []; 
+        saveCart(); 
+        updateCartUI(); 
+        cartModal.classList.add('hidden'); 
+
+        // 4. Buka chat WhatsApp di tab baru setelah data bersih
+        window.open(waUrl, '_blank');
+    }
+});
+
     function updateWhatsAppLink(total) {
         if (cart.length === 0) {
         checkoutWaBtn.classList.add('opacity-50', 'cursor-not-allowed');
@@ -572,19 +406,19 @@
         document.getElementById("modalImage").src = p.image;
         document.getElementById("modalName").textContent = p.name;
         document.getElementById("modalType").textContent = p.type;
-        document.getElementById("modalDetails").textContent = ""; // Kosongkan, hanya tab yang tampil
         document.getElementById("tabContent-details").textContent = p.description;
         document.getElementById("tabContent-usage").textContent = p.usage;
         document.getElementById("modalPrice").textContent = formatRupiah(p.price);
         quickViewModal.classList.remove("hidden");
-        quickViewModal.setAttribute('data-current-product-id', p.id); // simpan id produk
-        switchTab('details'); // Reset to default tab
+        quickViewModal.setAttribute('data-current-product-id', p.id);
+        switchTab('details');
     }
 
     function closeQuickView() {
         quickViewModal.classList.add("hidden");
     }
 
+    // Koreksi ID modalDetails yang typo pada kode bawaan Anda
     function switchTab(tab) {
         document.getElementById("tabContent-details").classList.toggle("hidden", tab !== 'details');
         document.getElementById("tabContent-usage").classList.toggle("hidden", tab !== 'usage');
@@ -597,7 +431,7 @@
     // =================================================================
 
     function setupEventListeners() {
-        // Event Delegation for dynamically created buttons inside productGrid
+        // Event Delegation untuk productGrid
         productGrid.addEventListener('click', (e) => {
         const target = e.target;
             if (target.matches('.add-to-cart-btn')) {
@@ -612,31 +446,31 @@
         }
         });
 
-        // Event Delegation for remove buttons inside cart
+        // Event Delegation untuk tombol hapus di keranjang
         cartItemsEl.addEventListener('click', (e) => {
             if (e.target.matches('.remove-from-cart-btn')) {
                 removeFromCart(e.target.dataset.id);
         }
         });
 
-        // Filter listeners
-        filterSidebar.addEventListener('input', (e) => {
-            if (e.target.matches('.filter-input, #min-price, #max-price')) {
-                applyFilters();
-        }
-        });
-        
-        resetFilterBtn.addEventListener('click', () => {
-        filterSidebar.querySelectorAll('input[type="checkbox"]').forEach(cb => cb.checked = false);
-        filterSidebar.querySelectorAll('.price-input').forEach(inp => inp.value = '');
-        applyFilters();
-        });
-
         // Cart modal listeners
         openCartBtn.addEventListener('click', () => cartModal.classList.remove('hidden'));
         closeCartBtn.addEventListener('click', () => cartModal.classList.add('hidden'));
         cartOverlay.addEventListener('click', () => cartModal.classList.add('hidden'));
-        
+
+        checkoutWaBtn.addEventListener('click', () => {
+
+            if (cart.length > 0) {
+                // Beri jeda sedikit agar browser sempat membuka tab WhatsApp sebelum data dihapus
+                setTimeout(() => {
+                    cart = []; // Kosongkan array keranjang di program
+                    saveCart(); // Simpan perubahan ke LocalStorage (jadi permanen)
+                    updateCartUI(); // Perbarui tampilan keranjang di web (menjadi 0)
+                    cartModal.classList.add('hidden'); // Tutup modal keranjang otomatis
+                }, 500);
+            }
+        });
+                
         // Quick view modal listeners
         document.getElementById('modal-close-btn').addEventListener('click', closeQuickView);
         document.getElementById('modal-overlay').addEventListener('click', closeQuickView);
@@ -645,6 +479,7 @@
                 switchTab(e.target.dataset.tab);
             }
         });
+
         // Tambah ke keranjang dari quickview
         document.querySelector('.add-to-cart-btn-modal').addEventListener('click', function() {
             const productId = quickViewModal.getAttribute('data-current-product-id');
@@ -664,8 +499,7 @@
     
     async function initializeApp() {
         allProducts = await fetchProducts();
-        generateFilterUI(allProducts);
-        renderProducts(allProducts);
+        renderProducts(allProducts); // Langsung render semua tanpa filter UI
         updateCartUI();
         setupEventListeners();
     }
@@ -685,7 +519,7 @@
     scrollTopBtn.addEventListener('click', () => {
       window.scrollTo({ top: 0, behavior: 'smooth' });
     });
-  </script>
+</script>
 
 </body>
 </html>

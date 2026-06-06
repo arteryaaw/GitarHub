@@ -2,73 +2,73 @@
   {
     "id": 1,
     "type": "Akustik",
-    "name": "Gitar Akustik Premium",
-    "price": 1800000,
-    "image": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?auto=format&fit=crop&w=500&q=60",
+    "name": "Gitar Akustik 39GC NiraM Original Grand Concert Nira",
+    "price": 700000,
+    "image": "products/0.jpg",
     "description": "Gitar akustik berkualitas tinggi dengan suara yang jernih dan resonansi sempurna. Cocok untuk pemula hingga profesional.",
     "usage": "Ideal untuk genre folk, pop, dan acoustic. Sangat cocok untuk pembelajaran dan pertunjukan."
   },
   {
     "id": 2,
-    "type": "Elektrik",
-    "name": "Gitar Elektrik Modern",
-    "price": 3500000,
-    "image": "https://images.unsplash.com/photo-1510915721058-72dc5d45efff?auto=format&fit=crop&w=500&q=60",
-    "description": "Gitar elektrik dengan desain modern dan sound yang powerful. Dilengkapi pickup berkualitas tinggi.",
-    "usage": "Sempurna untuk rock, metal, dan genre modern lainnya. Memerlukan amplifier."
+    "type": "Aksesoris",
+    "name": "Equalizer Tuner AW46",
+    "price": 155000,
+    "image": "products/aw46.jpeg",
+    "description": "Equalizer tuner berkualitas tinggi untuk gitar elektrik. Mempunyai fitur tuning yang akurat dan mudah digunakan.",
+    "usage": "Sempurna untuk rock, metal, dan genre modern lainnya. Essential untuk setiap pemain gitar elektrik."
   },
   {
     "id": 3,
-    "type": "Bass",
-    "name": "Bass Profesional",
-    "price": 4200000,
-    "image": "https://images.unsplash.com/photo-1519412666065-38a3d5560b1f?auto=format&fit=crop&w=500&q=60",
-    "description": "Bass elektrik dengan 4 senar, body yang ergonomis, dan tone yang dalam.",
-    "usage": "Digunakan dalam band, studio, dan pertunjukan live. Cocok untuk funk, jazz, dan rock."
-  },
-  {
-    "id": 4,
-    "type": "Ukulele",
-    "name": "Ukulele Mahoni",
-    "price": 950000,
-    "image": "https://images.unsplash.com/photo-1618704886250-f1d4ac0c6dd0?auto=format&fit=crop&w=500&q=60",
-    "description": "Ukulele berukuran medium dengan kayu mahoni pilihan. Suara yang hangat dan nyaman dimainkan.",
-    "usage": "Sangat cocok untuk pemula. Populer dalam musik ukulele, indie, dan acoustic pop."
-  },
-  {
-    "id": 5,
     "type": "Klasik",
-    "name": "Gitar Klasik Spanyol",
-    "price": 2200000,
-    "image": "https://images.unsplash.com/photo-1520523839897-bd0b52aaf081?auto=format&fit=crop&w=500&q=60",
+    "name": "Gitar Klasik Nira24 CLSC Original Berkualitas",
+    "price": 900000,
+    "image": "products/1.jpg",
     "description": "Gitar klasik dengan senar nylon, body besar, dan kualitas suara yang ekselen untuk musik klasik.",
     "usage": "Untuk musik klasik, flamenco, dan bossa nova. Ideal untuk pelajar yang serius."
   },
   {
+    "id": 4,
+    "type": "Aksesoris",
+    "name": "Tas Gitar Akustik & Jumbo",
+    "price": 40000,
+    "image": "products/softcase.jpeg",
+    "description": "Tas gitar akustik dan jumbo dengan material berkualitas tinggi. Melindungi gitar Anda dari kerusakan selama perjalanan.",
+    "usage": "Essential untuk setiap pemain gitar. Melindungi gitar Anda saat bepergian atau menyimpan."
+  },
+  {
+    "id": 5,
+    "type": "Aksesoris",
+    "name": "Castle String Senar Gitar",
+    "price": 25000,
+    "image": "products/castlestring.jpeg",
+    "description": "Set senar gitar berkualitas tinggi yang memberikan suara jernih dan tahan lama. Cocok untuk berbagai jenis gitar.",
+    "usage": "Ideal untuk gitar akustik. Essential untuk menjaga kualitas suara gitar Anda."
+  },
+  {
     "id": 6,
     "type": "Aksesoris",
-    "name": "Paket Aksesori Gitar",
-    "price": 250000,
-    "image": "https://images.unsplash.com/photo-1564349619205-d1d76e8cba9b?auto=format&fit=crop&w=500&q=60",
-    "description": "Paket lengkap aksesori: pita gitar, pick, tuner, dan capo. Semua yang Anda butuhkan untuk bermain.",
-    "usage": "Essential untuk setiap pemain gitar. Includes picks, strap, tuner, dan capo."
+    "name": "Standing Gitar Gantung Dinding",
+    "price": 30000,
+    "image": "products/hanger.jpeg",
+    "description": "Standing gitar gantung dinding yang kuat dan mudah dipasang. Melindungi gitar Anda dari kerusakan dan memberikan tampilan yang rapi di ruangan Anda.",
+    "usage": "Bagus untuk menyimpan gitar Anda dengan aman dan menampilkan koleksi gitar Anda di rumah atau studio."
   },
   {
     "id": 7,
-    "type": "Elektrik",
-    "name": "Gitar Elektrik Starter",
-    "price": 1500000,
-    "image": "https://images.unsplash.com/photo-1544716278-ca5e3af4abd8?auto=format&fit=crop&w=500&q=60",
-    "description": "Gitar elektrik entry-level yang sempurna untuk pemula dengan budget terbatas.",
-    "usage": "Great for beginners learning rock and modern genres."
+    "type": "Aksesoris",
+    "name": "Equalizer Priem 7545r",
+    "price": 100000,
+    "image": "products/equalizer.jpeg",
+    "description": "Equalizer berkualitas tinggi untuk gitar elektrik. Mempunyai fitur tuning yang akurat dan mudah digunakan.",
+    "usage": "Sempurna untuk rock, metal, dan genre modern lainnya. Essential untuk setiap pemain gitar elektrik."
   },
   {
     "id": 8,
     "type": "Akustik",
-    "name": "Gitar Akustik Travel Size",
-    "price": 1200000,
-    "image": "https://images.unsplash.com/photo-1516150990211-23a7e12bec95?auto=format&fit=crop&w=500&q=60",
-    "description": "Gitar akustik ukuran kecil yang mudah dibawa kemana-mana tanpa mengorbankan kualitas suara.",
-    "usage": "Perfect for traveling musicians and outdoor performances."
+    "name": "Nira Kajon Akustik Drum Box",
+    "price": 350000,
+    "image": "products/kajon.jpeg ",
+    "description": "Drum box akustik dengan suara yang kaya dan resonansi yang baik. Cocok untuk berbagai genre musik, terutama untuk pertunjukan akustik.",
+    "usage": "Ideal untuk musik akustik, folk, dan pop. Sempurna untuk pertunjukan live dan rekaman di studio."
   }
 ]
